@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv)
 {
-    const int TAG = 62087;
+    const int TAG = 55555;
 
     int aktualny;
     int wszystkie;               
