@@ -27,7 +27,7 @@ float poleTrapezu(int a, int b, int numer, int wszystkie)
 
 int main(int argc, char **argv)
 {
-    const int TAG = 62087;
+    const int TAG = 55555;
     const int a = 0;
     const int b = 10;
 
